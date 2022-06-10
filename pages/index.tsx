@@ -5,7 +5,7 @@ import { Container, Grid, Box, Typography, TextField,Button} from '@mui/material
 import { makeStyles } from "@mui/styles";
 import { useYam } from '../hooks';
 import { Web3ModalContext } from '../contexts';
-import {AiFillDelete} from 'react-icons/Ai';
+import {AiFillDelete} from 'react-icons/ai';
 
 const useStyles = makeStyles(() => ({
   networkIconStyle: {
