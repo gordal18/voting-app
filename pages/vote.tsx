@@ -6,7 +6,7 @@ import { makeStyles } from "@mui/styles";
 import { useYam } from '../hooks';
 import { Web3ModalContext } from '../contexts';
 import { List, ListItem } from '@mui/material';
-import {MdOutlineHowToVote} from 'react-icons/Md';
+import {MdOutlineHowToVote} from 'react-icons/md';
 
 // import { handleBreakpoints } from '@mui/system';
 const useStyles = makeStyles(() => ({
